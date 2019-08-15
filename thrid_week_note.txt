@@ -1,0 +1,22 @@
+talking about data scientist, the first thing is about: 1) descriptive data: which is to show the facts like the people voting for USA president in 2010 while you do not predict the preference of one individual for voting this year; as well as the booking seraching in google at period of time for several books, also this just indicates the past trend of books while you do not predict the book just based on this data trend; 2) explortary data: which is possible to show underlying data relationship among many variables and this possibly gives rise to the research problem while the correlation is not causiation and you could not say one varialbe causes another one; 3) inference analysis: given a small dataset, try to predict behaviours of a large population; and also try to derive the causitive relationship between a rule like a law (air control law) and one variable that you are interested in (like life expectance); 4) predictive analysis: remember that if x predicts y, it does not mean x causes y; 5) causal analysis: usually randomized studies are required and this applies to average not individuals; 6) mechanistic analysis: to see the threshold of one variable to change another variable
+
+what is data: data are values of qualitative or quantitative variables belonging to a set of items; the items like the websites or the people that you are concerned about; the variables: the features or characteristics of those population and the qualitative: country, sex, origin and quantitative: height weight age etc
+
+the most important thing in data science is having the question and the second thing is about the data; sometimes, the data do not tell you about the answer to the question and possibly you need other/more data or you can re-phrase the question; so, from this perspective, the first thing is about having a good question 
+though possibly you might have big data while only small part of data is related to your question that you are interested in 
+
+the right data is important and sometimes even it is small data 
+
+the six people's distance between one person and another person; if you are in the center of the social circle, you will have the chance to know about it.
+
+remember correlation is not causation; and possibly there is another variable which could affect both of those variables
+
+if you possibly wonder those correlations are caused by confounding variables, possibly you can randomize experiment candidates 
+
+when you derive the significant difference, it is not only the difference between means but also the variablity of those means 
+
+data dredging is to conclude the results while it is not the true for reasons like: confounding problem
+
+
+
+The Adrew Pole uses the data analysis to send the coupon in advance about your desire even before you realise that you are pregant. So, the sales jump from this 44 billion to 67 billion 
