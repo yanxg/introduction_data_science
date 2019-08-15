@@ -1,0 +1,31 @@
+touch is to create a file and mkdir to create the folder/directories
+
+everything about reporsitory is in your own computer 
+
+git config --list to see the git information
+
+the git you have installed in your computer should be consistent with the name your signed in the github
+
+git is a version control tool while github is the website which you could share your project as well as fork others' repository
+
+you could use git without github
+
+you could use git remote add origin remote_url_in_github to link repo in local computer with remote url
+
+if you find some projects you are interested in, you can fork it and then that project is in your own repository; then you can clone it to your own computer and then you can make changes to it and you can also contribute to it. So, the first copying operation is called forking and the second one is called clone
+
+git add to let the git verion control to know which files to be tracked 
+
+if you want to see flags for git add, you have to use man git-add 
+
+you can create a new branch: git checkout -b branchname to create a new branch; git branch to see which branch you are in; git checkout master to switch to the master branch
+
+you can install packages like install.packages() and then load the package library() and search() to see the functions of the package
+
+when you fork a remote repository to your local repository, then you could git clone to get it to your local computer; and the git clone repository_url is to clone
+
+if you clone it from the repository, then you can git push to the repository
+
+the load R package is to use library() package name while without '' and install.package('') with package name in it 
+
+
